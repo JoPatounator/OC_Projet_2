@@ -123,9 +123,9 @@
 	  background: linear-gradient(to right, var(--main-color), var(--second-color));
   }
   
-  .whiteContentSection_h2,
-  .whiteContentSection_h3,
-  .whiteContentSection_p {
+  .whiteContentSection h2,
+  .whiteContentSection h3,
+  .whiteContentSection p {
 	  color:  white;
   }
   
